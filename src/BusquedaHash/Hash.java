@@ -1,5 +1,10 @@
-
 package BusquedaHash;
+
+/**
+ *
+ * @author EquipoALZ
+ */
+
 public class Hash {
     int dato;
     int estado; //0 = Vacío, 1 = Eliminado, 2 = Ocupado

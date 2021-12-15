@@ -1,6 +1,11 @@
 package BusquedaHash;
 import javax.swing.JTextArea;
 
+/**
+ *
+ * @author EquipoALZ
+ */
+
 public class TestHash {
     public static void main(String[] args) {
         try {
