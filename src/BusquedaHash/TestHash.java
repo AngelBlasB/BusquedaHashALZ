@@ -19,7 +19,7 @@ public class TestHash {
             
             do {
                 resp = Integer.parseInt(javax.swing.JOptionPane.showInputDialog("Menú Principal \n\n"
-                        + "Insertar (1)\nBuscar (2)\nEliminar (3)\nMatriculas (4)\n Salir(5)"));
+                        + "Insertar (1)\nBuscar (2)\nEliminar (3)\nLista (4)\n Salir(5)"));
                 switch (resp) {
                     case 1:
                         n = Integer.parseInt(javax.swing.JOptionPane.showInputDialog("Ingrese la matricula a ser insertada en la tabla:"));
